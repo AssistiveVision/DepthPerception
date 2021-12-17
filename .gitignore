@@ -1,0 +1,9 @@
+Backup/
+nyu_data/
+DepthPerceptionCodeForBackend/nyu.h5
+DepthPerceptionCodeForBackend/__pycache__/
+depth_perception.tflite
+nyu_data.zip
+nyu_test.zip
+nyu.h5
+env/
